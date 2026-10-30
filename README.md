@@ -1,8 +1,8 @@
 # Практическая работа: Контейнеризация, облачная инфраструктура и оркестрация
 
 **Студент:** Рахимжанова Зарина  
-**Профиль Docker Hub:** [fhujniomc](https://hub.docker.com/u/fhujniomc)[cite: 4]  
-**Репозиторий GitLab:** [devops-task](https://gitlab.com/dd33km/devops-task)[cite: 3, 4]  
+**Профиль Docker Hub:** [fhujniomc](https://hub.docker.com/u/fhujniomc)
+**Репозиторий GitLab:** [devops-task](https://gitlab.com/dd33km/devops-task)
 
 ---
 
